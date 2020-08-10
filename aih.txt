@@ -1,0 +1,9 @@
+ini test keylogger
+
+hello world
+
+test keylogger
+
+keylogger test
+
+123456
